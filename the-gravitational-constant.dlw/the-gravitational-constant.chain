@@ -4,6 +4,6 @@ slug  : the-gravitational-constant
 seal  : 0af7a5cff237cc01d970b626a23039808b091fce32d0843bf0c8649111f60732
 prev  : 50e2d517d9749ba77ee4036f9face92eb1f679e6c3d7f5c7b1b861933c6b6f7d
 link  : 103a3fa0db987d9ab04eca10705c51ed5c81bf0833fec50e9e5ffdf1097348ff
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
